@@ -990,3 +990,60 @@
 [submodule "libs/unordered"]
 	path = libs/unordered
 	url = https://github.com/boostorg/unordered.git
+[submodule "libs/property_tree"]
+	path = libs/property_tree
+	url = https://github.com/boostorg/property_tree.git
+[submodule "libs/multi_index"]
+	path = libs/multi_index
+	url = https://github.com/boostorg/multi_index.git
+[submodule "libs/serialization"]
+	path = libs/serialization
+	url = https://github.com/boostorg/serialization.git
+[submodule "libs/spirit"]
+	path = libs/spirit
+	url = https://github.com/boostorg/spirit.git
+[submodule "libs/variant"]
+	path = libs/variant
+	url = https://github.com/boostorg/variant.git
+[submodule "libs/endian"]
+	path = libs/endian
+	url = https://github.com/boostorg/endian.git
+[submodule "libs/phoenix"]
+	path = libs/phoenix
+	url = https://github.com/boostorg/phoenix.git
+[submodule "libs/proto"]
+	path = libs/proto
+	url = https://github.com/boostorg/proto.git
+[submodule "libs/pool"]
+	path = libs/pool
+	url = https://github.com/boostorg/pool.git
+[submodule "libs/winapi"]
+	path = libs/winapi
+	url = https://github.com/boostorg/winapi.git
+[submodule "libs/thread"]
+	path = libs/thread
+	url = https://github.com/boostorg/thread.git
+[submodule "libs/atomic"]
+	path = libs/atomic
+	url = https://github.com/boostorg/atomic.git
+[submodule "libs/align"]
+	path = libs/align
+	url = https://github.com/boostorg/align.git
+[submodule "libs/chrono"]
+	path = libs/chrono
+	url = https://github.com/boostorg/chrono.git
+[submodule "libs/ratio"]
+	path = libs/ratio
+	url = https://github.com/boostorg/ratio.git
+[submodule "libs/date_time"]
+	path = libs/date_time
+	url = https://github.com/boostorg/date_time.git
+[submodule "libs/system"]
+	path = libs/system
+	url = https://github.com/boostorg/system.git
+[submodule "libs/numeric_conversion"]
+	path = libs/numeric_conversion
+	url = https://github.com/boostorg/numeric_conversion.git
+[submodule "libs/variant2"]
+	path = libs/variant2
+	url = https://github.com/boostorg/variant2.git
