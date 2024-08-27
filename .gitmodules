@@ -1047,3 +1047,6 @@
 [submodule "libs/variant2"]
 	path = libs/variant2
 	url = https://github.com/boostorg/variant2.git
+[submodule "libs/locale"]
+	path = libs/locale
+	url = https://github.com/boostorg/locale.git
