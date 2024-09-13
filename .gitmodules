@@ -1050,3 +1050,6 @@
 [submodule "libs/locale"]
 	path = libs/locale
 	url = https://github.com/boostorg/locale.git
+[submodule "libs/context"]
+	path = libs/context
+	url = https://github.com/boostorg/context.git
