@@ -758,11 +758,6 @@
 	url = ../stl_interfaces.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
-[submodule "more"]
-	path = more
-	url = https://github.com/boostorg/more.git
-	fetchRecurseSubmodules = on-demand
-	branch = .
 [submodule "leaf"]
 	path = libs/leaf
 	url = ../leaf.git
